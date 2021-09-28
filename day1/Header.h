@@ -4,6 +4,7 @@
 # include <string>
 # include <iostream>
 # include <bitset>
+# include <math.h>
 
 unsigned int Inputint(int m, unsigned int M);
 void f1();
